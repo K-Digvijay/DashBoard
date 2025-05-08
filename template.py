@@ -23,7 +23,7 @@ list_of_files = [
     # f'{Project_name}/logger/__init__.py',
     # f'{Project_name}/pipeline/__init__.py',
     # f'{Project_name}/utils/__init__.py',
-    # f'{Project_name}/Jupyter_notebook/{jupyter}.ipynb',
+    f'{Project_name}/Jupyter_notebook/{jupyter}.ipynb',
     # f'config/config.yaml',
     # 'schema.ymal',
     # 'app.py',
@@ -31,6 +31,12 @@ list_of_files = [
     # 'logs.py',
     # 'exceptions.py',
     # 'setup.py'
+
+    f"{Project_name}/static/static",
+    f"{Project_name}/logs/logs",
+    "index.html",
+    "style.css",
+    "connector.js"
 
 
 
